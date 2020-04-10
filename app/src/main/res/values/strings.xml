@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_title">Title:</string>
+    <string name="post_body_lable">Body:</string>
+    <string name="user_id">User Id:-</string>
+    <string name="post_id">Id:-</string>
+    <string name="userid_lable">UserID:</string>
+    <string name="e_mail_lable">E-mail:</string>
+</resources>

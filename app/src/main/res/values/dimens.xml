@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="LayoutHight">0dp</dimen>
+     <dimen name="margin">5dp</dimen>
+    <dimen name="border_padding">5dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="smalltext_size">16sp</dimen>
+    <dimen name="cc_radius">10dp</dimen>
+    <dimen name="elevation">5dp</dimen>
+    <dimen name="vactor_image_width">20dp</dimen>
+    <dimen name="marginleft">3dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="extra_small_padding">2dp</dimen>
+    <dimen name="small_padding">5dp</dimen>
+</resources>
